@@ -1,0 +1,9 @@
+# py cache files
+.ipynb_checkpoints
+__pycache__
+
+# hide your imgur client id
+config.txt
+
+# hide your data
+images/
