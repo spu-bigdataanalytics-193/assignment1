@@ -3,7 +3,7 @@
 __pycache__
 
 # hide your imgur client id
-config.txt
+# config.txt
 
 # hide your data
-images/
+# images/
